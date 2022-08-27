@@ -1,0 +1,6 @@
+.venv/*
+data/*
+__pycache__/*
+./notebooks/.ipynb_checkpoints/*
+./notebooks/catboost_info/*
+./notebooks/.log
